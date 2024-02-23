@@ -1,0 +1,11 @@
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Release\TestTaskFlatRockTech.exe.config
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Release\TestTaskFlatRockTech.exe
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Release\TestTaskFlatRockTech.pdb
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Release\HtmlAgilityPack.dll
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Release\HtmlAgilityPack.pdb
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Release\HtmlAgilityPack.xml
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Release\TestTaskFlatRockTech.csproj.AssemblyReference.cache
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Release\TestTaskFlatRockTech.csproj.CoreCompileInputs.cache
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Release\TestTaskFlatRockTech.csproj.CopyComplete
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Release\TestTaskFlatRockTech.exe
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Release\TestTaskFlatRockTech.pdb

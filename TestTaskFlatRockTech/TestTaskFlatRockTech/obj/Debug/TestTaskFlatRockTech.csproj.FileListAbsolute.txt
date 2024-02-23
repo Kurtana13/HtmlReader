@@ -1,0 +1,13 @@
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\TestTaskFlatRockTech.exe.config
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\TestTaskFlatRockTech.exe
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\TestTaskFlatRockTech.pdb
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\HtmlAgilityPack.dll
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\HtmlAgilityPack.pdb
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\HtmlAgilityPack.xml
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Debug\TestTaskFlatRockTech.csproj.AssemblyReference.cache
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Debug\TestTaskFlatRockTech.csproj.CoreCompileInputs.cache
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Debug\TestTaskFlatRockTech.csproj.CopyComplete
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Debug\TestTaskFlatRockTech.exe
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\obj\Debug\TestTaskFlatRockTech.pdb
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\Newtonsoft.Json.dll
+D:\C#\TestTaskFlatRockTech\TestTaskFlatRockTech\bin\Debug\Newtonsoft.Json.xml
